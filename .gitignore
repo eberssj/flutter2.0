@@ -1,0 +1,25 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Generated files
+*.dart.js
+*.info.json
+*.swp
+*.lock
+*.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# OS related
+.DS_Store
+Thumbs.db
+
+# Others
+*.lock
