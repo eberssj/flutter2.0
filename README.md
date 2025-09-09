@@ -64,6 +64,3 @@
    flutter run
    ```
 
-## Dicas Extras 🚀
-
-**Debugging**: Use `flutter doctor` para verificar problemas de configuração.
